@@ -1,6 +1,5 @@
 # Load-test-on-D.C-Shunt-Generator
-### Name: Sachin T
-### Reg no:212223080046
+
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
@@ -36,10 +35,11 @@ by closing the DPST switch 2.
 initial position
 
 Tabular Column:
-<img width="509" height="371" alt="image" src="https://github.com/user-attachments/assets/1641b4c7-3683-4920-b857-5ef394c51cff" />
+<img width="135" height="175" alt="image" src="https://github.com/user-attachments/assets/74439db6-2594-4eb5-8ee9-5e11c13dbada" />
+
 
 Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
-Result:
-<img width="1920" height="1080" alt="501899987-91af0762-3ec9-4cfa-b575-e515106603ef" src="https://github.com/user-attachments/assets/a6fdec14-88d6-4bae-8ca3-ae232b8bc6b8" />
+RESULT:
+The o. c and load characteristics of separately excited d. c. generator was performed by suitable experiment and the following characteristics graphs were obtained and drawn.
